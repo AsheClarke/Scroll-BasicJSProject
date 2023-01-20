@@ -83,4 +83,5 @@ scrollLinks.forEach(function(link){
         linksContainer.style.height = 0;
         //this closes the navbar on a smaller screen when scrolling
     });
-});
+}); 
+//end
